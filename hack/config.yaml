@@ -4,7 +4,7 @@
 gfcli:
   gen:
     dao:
-      - link: "mysql:travel:DB12vmware#$@tcp(43.134.187.76:3306)/demo"
+      - link: "mysql:test:123456@tcp(127.0.0.1:3306)/demo"
         descriptionTag: true
 
   docker:
